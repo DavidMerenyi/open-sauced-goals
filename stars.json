@@ -1,51 +1,51 @@
 [
   {
     "full_name": "rust-unofficial/awesome-rust",
-    "stargazers_count": 26552,
-    "open_issues_count": 10,
-    "forks_count": 1809
+    "stargazers_count": 26652,
+    "open_issues_count": 9,
+    "forks_count": 1812
   },
   {
     "full_name": "immutable-js/immutable-js",
-    "stargazers_count": 32072,
-    "open_issues_count": 116,
-    "forks_count": 1859
+    "stargazers_count": 32082,
+    "open_issues_count": 115,
+    "forks_count": 1858
   },
   {
     "full_name": "adonisjs/core",
-    "stargazers_count": 12656,
+    "stargazers_count": 12666,
     "open_issues_count": 1,
     "forks_count": 589
   },
   {
     "full_name": "fastify/fastify",
-    "stargazers_count": 23982,
-    "open_issues_count": 56,
-    "forks_count": 1757
+    "stargazers_count": 24032,
+    "open_issues_count": 52,
+    "forks_count": 1759
   },
   {
     "full_name": "trekhleb/javascript-algorithms",
-    "stargazers_count": 143855,
-    "open_issues_count": 261,
-    "forks_count": 23853
+    "stargazers_count": 144261,
+    "open_issues_count": 262,
+    "forks_count": 23925
   },
   {
     "full_name": "ethereum/ethereum-org-website",
-    "stargazers_count": 2863,
-    "open_issues_count": 225,
-    "forks_count": 2772
+    "stargazers_count": 2877,
+    "open_issues_count": 232,
+    "forks_count": 2786
   },
   {
     "full_name": "unform/unform",
-    "stargazers_count": 4443,
+    "stargazers_count": 4447,
     "open_issues_count": 59,
-    "forks_count": 509
+    "forks_count": 512
   },
   {
     "full_name": "juliencrn/usehooks-ts",
-    "stargazers_count": 1697,
+    "stargazers_count": 1711,
     "open_issues_count": 9,
-    "forks_count": 125
+    "forks_count": 126
   },
   {
     "full_name": "wellyshen/react-cool-form",
@@ -55,9 +55,9 @@
   },
   {
     "full_name": "sanity-io/sanity",
-    "stargazers_count": 3470,
-    "open_issues_count": 477,
-    "forks_count": 297
+    "stargazers_count": 3482,
+    "open_issues_count": 478,
+    "forks_count": 298
   },
   {
     "full_name": "wellyshen/react-cool-portal",
@@ -67,19 +67,19 @@
   },
   {
     "full_name": "olifolkerd/tabulator",
-    "stargazers_count": 4699,
-    "open_issues_count": 53,
+    "stargazers_count": 4703,
+    "open_issues_count": 43,
     "forks_count": 638
   },
   {
     "full_name": "airbnb/visx",
-    "stargazers_count": 15363,
-    "open_issues_count": 111,
+    "stargazers_count": 15385,
+    "open_issues_count": 109,
     "forks_count": 591
   },
   {
     "full_name": "timolins/react-hot-toast",
-    "stargazers_count": 5245,
+    "stargazers_count": 5266,
     "open_issues_count": 69,
     "forks_count": 169
   },
@@ -97,19 +97,19 @@
   },
   {
     "full_name": "pmndrs/react-three-fiber",
-    "stargazers_count": 18489,
-    "open_issues_count": 30,
-    "forks_count": 1029
+    "stargazers_count": 18521,
+    "open_issues_count": 31,
+    "forks_count": 1032
   },
   {
     "full_name": "angus-c/just",
-    "stargazers_count": 4191,
+    "stargazers_count": 4196,
     "open_issues_count": 13,
     "forks_count": 195
   },
   {
     "full_name": "francisrstokes/super-expressive",
-    "stargazers_count": 4386,
+    "stargazers_count": 4387,
     "open_issues_count": 3,
     "forks_count": 132
   }
